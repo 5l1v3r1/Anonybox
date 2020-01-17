@@ -3,7 +3,7 @@
 Official Launch for Anonybox Alpha 
 > All rights reserved by Morad Abdelrasheed Mokhtar.
 
-## Build
+## Build & Run
 
 For Server:
 ```bash
