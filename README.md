@@ -1,4 +1,4 @@
-# Anonybox [![Badge](https://img.shields.io/badge/Anonybox-Official-blue)]() [![Badge](https://img.shields.io/badge/Built%20with-Java-blue)]() [![Badge](https://img.shields.io/badge/Made%20in-EG-red)]() [![Badge](https://img.shields.io/badge/Encryption-AES|256-blue)]()
+# Anonybox [![Badge](https://img.shields.io/badge/Built%20with-Java-blue)]() [![Badge](https://img.shields.io/badge/Made%20in-EG-red)]() [![Badge](https://img.shields.io/badge/Encryption-AES|256-blue)]() ![GitHub repo size](https://img.shields.io/github/repo-size/qarqoush/Anonybox) ![GitHub stars](https://img.shields.io/github/stars/qarqoush/Anonybox) ![GitHub watchers](https://img.shields.io/github/watchers/qarqoush/Anonybox)
 
 
 Official Launch for Anonybox Alpha 
